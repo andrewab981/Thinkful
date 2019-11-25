@@ -1,2 +1,2 @@
 # Thinkful
-All my Thinkful projects, assignments, and drills
+Python projects highlighting skills in data science: data cleaning, data exploration, natural language processing, supervised learning, unsupervised learning, neural networks, and machine learning. 
